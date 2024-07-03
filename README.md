@@ -1,3 +1,7 @@
+# IMDB Rating Filmes
+### Projeto para o programa Lighthouse - Processo de criação de um sistema preditivo para estimar nota IMDB de filmes.
+#### Desafio:
+- Você foi alocado em um time da Indicium contratado por um estúdio de Hollywood chamado PProductions, e agora deve fazer uma análise em cima de um banco de dados cinematográfico para orientar qual tipo de filme deve ser o próximo a ser desenvolvido. Lembre-se que há muito dinheiro envolvido, então a análise deve ser muito detalhada e levar em consideração o máximo de fatores possíveis (a introdução de dados externos é permitida - e encorajada).l seria a nota do IMDB?
 ### Como Instalar e Executar o Projeto
 Pré-requisitos:
 - Python 3.11 ou superior
