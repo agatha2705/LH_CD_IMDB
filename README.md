@@ -7,7 +7,7 @@ Terão recebido o jupyter notebook via gmail, mas caso não dê certo:
   - Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
   - Para conseguir esse link https, siga a imagem abaixo:
   
-![image](https://github.com/agatha2705/LH_CD_IMDB/assets/121002599/6c233edc-81fe-4e15-8937-a5c2ca1fdc3d)
+![image](https://github.com/agatha2705/LH_CD_IMDB/assets/121002599/f20d0e3e-1dc3-4efd-9b4f-12a982ddd270)
 
 ##### Passos:
 1. Crie e ative um ambiente virtual e instale as dependências --> disponível neste repositório: "requirements.txt"
